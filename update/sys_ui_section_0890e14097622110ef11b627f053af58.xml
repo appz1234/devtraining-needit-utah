@@ -4,13 +4,13 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-11 06:22:10</sys_created_on>
-            <sys_id>80762a2897f22110ef11b627f053afeb</sys_id>
+            <sys_created_on>2023-05-17 08:06:37</sys_created_on>
+            <sys_id>dce7f9aa97b66110ef11b627f053afcf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit2" sys_domain="global" view="Default view">0890e14097622110ef11b627f053af58</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-11 06:22:10</sys_updated_on>
+            <sys_updated_on>2023-05-17 08:06:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,41 +18,13 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-11 06:22:10</sys_created_on>
-            <sys_id>08762a2897f22110ef11b627f053afeb</sys_id>
+            <sys_created_on>2023-05-17 08:06:37</sys_created_on>
+            <sys_id>50e7f9aa97b66110ef11b627f053afd0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit2" sys_domain="global" view="Default view">0890e14097622110ef11b627f053af58</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-11 06:22:10</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>col2</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-11 06:22:10</sys_created_on>
-            <sys_id>88762a2897f22110ef11b627f053afeb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit2" sys_domain="global" view="Default view">0890e14097622110ef11b627f053af58</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-11 06:22:10</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>col1</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-11 06:22:10</sys_created_on>
-            <sys_id>0c762a2897f22110ef11b627f053afeb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_needit2" sys_domain="global" view="Default view">0890e14097622110ef11b627f053af58</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-11 06:22:10</sys_updated_on>
+            <sys_updated_on>2023-05-17 08:06:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
